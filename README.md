@@ -25,4 +25,4 @@ Errors are also accounted for, such as
 - Syntax errors in the input text, which is when a piece of the input text cannot be matched to a regular expression. 
 - Duplicate regular expression names, which is when two separated regular expressions are given the same ID. 
 
-Hope you enjoy this projet. 
+Hope you enjoy this project. 
